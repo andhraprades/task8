@@ -1,0 +1,51 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+"education":[
+  {
+    "degree":"B-Tech(Computer Science & Engineering)",
+    "institute":"Siddharth College of Engineering",
+    "data":["2015-19","75%"]
+  },
+  {
+    "degree":"Intermediate(M.P.C)",
+    "institute":"Narayana junior college",
+    "data":["2013-2015","87%"]
+  },
+{
+  "degree":"SSC",
+  "institute":"St.Mary's e.m high school",
+  "data":["2012-13","9.5"]
+}
+],
+"skills":[
+  {
+    "title":"Programming Languages",
+    "set":["Java","c","Python","C++"]
+  },
+  {
+      "title":"Web Technologies",
+      "set":["HTML","CSS","PHP","JavaScript"]
+    },
+     {
+          "title":"Data Bases",
+          "set":["Sql","mySql","Oracle","NoSql"]
+        },
+        {
+              "title":"Operating Systems",
+              "set":["Windows","DOS","Mac","Linux"]
+            }
+],
+"achievements":[
+  {
+    "achievedData":"Got first Prize in PPT presentation."
+  },
+  {
+    "achievedData":"Got first Prize in Technical quiz."
+  },
+  {
+    "achievedData":"Got first Prize in Running race."
+  }
+]
+}
